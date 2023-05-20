@@ -1,0 +1,62 @@
+.about_root{
+    background-color: #f8f9fd;
+    padding-top: 30px;
+}
+
+.about_header_text h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-top: 20px;
+    color: #233142;
+}
+
+.about_header_text p{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #233142;
+}
+.mission_text h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #00ab55;
+}
+
+.mission_text p{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #233142;
+}
+
+.value_text h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-top: 20px;
+    color: #233142;
+}
+
+.value_text li{
+    color: #00ab55;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.team_text h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-top: 20px;
+    color: #233142;
+}
+
+.team_text p{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #233142;
+}

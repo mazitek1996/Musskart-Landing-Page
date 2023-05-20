@@ -1,0 +1,35 @@
+.contact_root {
+  background-color: #f8f9fd;
+}
+
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 4rem;
+  color: #00ab55;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.whatsapp-icon p {
+  font-size: 10px;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  color: #233142;
+}
+
+.contact_text h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 3rem;
+  font-weight: 800;
+  padding-top: 30px;
+  color: #00ab55;
+}
+
+.contact_text p {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #233142;
+}
