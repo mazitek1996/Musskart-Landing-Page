@@ -143,6 +143,19 @@ export default function CustomNavbar() {
             >
               Contact Us
             </ScrollLink>
+
+            <ScrollLink
+              to="solution"
+              smooth={true}
+              duration={500}
+              offset={-70}
+              spy={true}
+              exact="true"
+              activeClass="active"
+              className="nav-link"
+            >
+              Solution
+            </ScrollLink>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

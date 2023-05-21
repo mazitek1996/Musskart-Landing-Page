@@ -4,6 +4,7 @@ import Hero from './Hero'
 import Services from './Services'
 import About from './About'
 import Contact from './Contact'
+import Solution from './solution'
 export default function BodySection() {
   return (
     <div className='body_root '>
@@ -11,6 +12,7 @@ export default function BodySection() {
       <Services/>
       <About/>
       <Contact/>
+      <Solution/>
     </div>
   )
 }
